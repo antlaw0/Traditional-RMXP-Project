@@ -1,0 +1,13 @@
+\bSNEAKING UP ON DRAGONS!\b\n\n\n
+
+\sh\c[#0]A party of adventurers finds a sleeping dragon and its hoard. The lawful, yet stupid Paladin decides he must slay yon evil beast, of course/ To do so, he found he has to first cross an underground stream. QUIETLY he removes his armor and sword and tells others to throw his sword to him after he crosses. The Paladin crosses and signals for his sword, all the while the dragon is still asleep.\n\n
+
+\bDM:\b "Roll a d20 to throw the sword to him."\n\n
+
+\bPlayer:\b (\irolls a d20\i) "A One!"\n\n
+
+\bDM:\b "A critical fumble, you impale the paladin with his own sword."\n\n
+
+\bDM:\b (\iasking the paladin\i) "You're about to pass out, what do you do?"\n\n
+
+\bPaladin:\b (\icold bloodedly\i) "I scream."

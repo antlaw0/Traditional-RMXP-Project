@@ -1,0 +1,118 @@
+\bA Guide to Introductions\b\n
+by Mateui\n\n
+
+
+\i"You wake up in the middle of nowhere, you do not no anything at all..."\i\n\n
+
+
+This is the worst that can happen to a game. Ok, so it isn't as bad as a major bug, or an impassable terrain, but it sure leaves discomfort. What am I talking about? Yup, you've guessed it! Introductions!\n\n
+
+\bWhat Will Be Discussed in this Article:\b\n\n
+
+-\iWhy Some Introductions Fail in General\i\n
+-\iDifferent Types of Introductions\i\n
+-\iRemedies to the Problems\i\n\n
+
+(I am sorry to say that this article will not have any definitions. I know, I'm sad too. Don't worry though... I will still sound like my usual English teacher type! Hurray!)\n\n\n
+
+
+
+\bTop Five Reasons for Failure:\b\n
+Ok. Down to business. Why do some introductions fail anyway? I can list a few reasons of the top of my head. I'll explain when needed. Ready? Let's go!\n\n
+
+(I took a poll on the GW forums to ask members on what they thought were the biggest reasons that most introductions have failed. Here are the results in order.)\n\n
+
+5) \iNot Enough Action:\i\n
+These are generally the games where an introduction is not exciting enough to grab and hold on to the player's attention. An example may be just an introduction where nothing is happening at all, except text. What I mean by this is that the backdrop is empty and a series of paragraphs (usually long ones too) appear and the player must read them to understand the rest of the storyline. Think Star Wars.\n\n
+
+4) \iToo Confusing:\i\n
+Introductions can get confusing for a variety of reasons. One common one is the introduction of too many characters. If there are no face sets to help you in this situation, then knowing who's talking will be hard to catch up on. Also, improper use of pictures can really screw an intro up.\n\n
+
+3) \iCreator Forgot to Make an Introduction:\i\n
+I know that this may seem foolish and stupid to some of you, but some games are lacking an introduction. There's nothing there. No hook to grab your attention and to keep your interest. For example, waking up in the middle of a forest, not knowing anything at all.\n\n
+
+2) \iToo Much Dialogue:\i\n
+This relates to the problem of not having enough action. While some introductions really benefit from dialogue, others do not. Think of the phrase: 'Too much of a good thing is bad enough.' (That reminds me of a Spice Girls song...) Although Star Wars uses this approach, do you have to read for more that 2 minutes. No, after a couple of paragraphs the player will definitely lose interest, if not the first time, then by the second playing the game.\n\n
+
+1) \iPoorly Written / Scripted:\i\n
+This is the number one reason to failure. Why? Well, because, it's bad enough to have to read pages of dialogue, but it is worse if it is poorly written and spelled. Grammar is also a factor that can destroy (ok, more like ruin) your game, but the sad thing is, is that it can easily be avoided with some time and effort.\n\n
+
+Where you surprised with the results? I'm sure you weren't. Many introductions have failed for a variety of reasons, but, hopefully, they will now be avoided more. Just to also give you some guidelines, let us look at the different types of intros in some role-playing games.\n\n\n
+
+
+
+\bDifferent Types of Introductions:\b\n
+What are some types of introductions that you can use as a template for your story? Look no further, I've got some here. 7 actually.\n\n\n
+
+
+1) \iWritten Introduction:\i\n
+The Star Wars type of intro. Nothing but sentences to tell the beginning of your story. Not very exciting to some.\n\n
+
+2) \iHalf-Written, Half-Action:\i\n
+On the top or the bottom of the screen, the text is showed, giving the player the appropriate story. Similar to the introduction above but the only difference being that on the other half of the screen action is showed. What I mean by action is that you can see characters moving, backgrounds, pictures, etc.\n\n
+
+3) \iAll Action: Character Based:\i\n
+There is no long paragraph telling you the story, the story is told through the use of character dialogue. For example, a character speaking to another character about a vicious monster, instead of just telling about the monster, in a paragraph form, like the type of introduction above.\n\n
+
+4) \iAll Action: Picture Based:\i\n
+When done properly, this can be really great for your game in giving it recognition and popularity. Instead of having bland, boring characters stand in static (no movement), a picture introduction is used with only the use of the show picture, move picture, and erase picture command. The pictures are usually flashed and they move, yet there is still room for some character dialogue.\n\n
+
+5) \iFree-For-All:\i\n
+You may think that having no introduction is bad but some creators can really use this act of laziness to make a great game. Some games where you wake up knowing nothing about the plot or having no memories can make an mysterious, action-packed, and memorable game. By making an introduction this way however, you have to make sure that you fill the player in details at proper times, such as the main character having a certain memory recovery, or flashback.\n\n
+
+6) \iMovie Based:\i\n
+The can be very hard to make, yet if pulled off, you can be sure that your game will be appreciated. Creating an AVI file will give you a larger assortment of colors to play around with and more special effects can be achieved. One downside to this is that AVI files can really make your game download increase in size, so be weary.\n\n
+
+7) \iCombination:\i\n
+Those above are not the only types of introductions that you are restricted to. By combining different types you will create another new type and might even become famous. (Although that will rarely happen, but you never know.)\n\n\n
+
+
+Ok. Now you know the common problems and the different types of introductions, but now you are fearing this: 'What if I am doomed to make the mistakes that others have made?‚?ù Ok, I'm here to help you. Let's look at some solutions! (Am I always this excited?)\n\n\n
+
+
+
+\bRemedies to the Problems:\b\n
+Let us take this one at a time. We will look at the problems we already discussed, and we will strive for a remedy.\n\n\n
+
+
+\iNot Enough Action:\i\n
+This can be tedious to solve for the average Rm2k user. You have to remember that the person who is playing your game is not forced to play it, they choose it out of hundreds of other games they could be playing and have decided to give your game a try. If, in the first 5 minutes, your game hasn't got their attention, you can be certain that the escape button will be pressed.\n\n
+
+Don't say that something evil is happening, show it. This brings me back to third grade. Remember show and tell. Was it ever fun to listen to someone talk about an item that they weren't showing, or have forgotten it at home. The same is with video games, the eyes are quicker than the brain so pictures and action will stimulate thinking faster, and will keep the attention of the player.\n\n
+
+\iToo Confusing:\i\n
+To solve this, you can do a few things. If face sets are missing, try to find them, or ask someone else at the resource forum to either make you some or find them for you. There are some plenty of nice people out there.\n\n
+
+Another thing that you can change is the character(s) name(s). Wouldn't you be confused if an introduction had two main characters named Ramor and Raimor? Confusing at the least!\n\n
+
+\iCreator Forgot to Make an Introduction:\i\n
+Come on! You need help to solve this?! Just make an introduction!!! (Unless you are going for a mysterious-feeling game.\n\n
+
+\iToo Much Dialogue:\i\n
+Try to simplify the dialogue or story and take out unnecessary words or sentences. You don't want to give away the whole plot, just enough to get interest.\n\n
+
+\iPoorly Written / Scripted:\i\n
+This is also easy to solve. I know for some of you, English is not your first language, but you can try to be as perfect as you can. Before placing your sentences and words in Rm2k, put them through a word processor, like Word or Corel WordPerfect. This way, your spelling will be corrected, and as a bonus, even your grammar. What more can you ask for?\n\n\n
+
+
+
+\bConclusion:\b\n
+This is the end of this article. Sorry once again for my long absence, I have a life you know. (Even though it isn't as big as everyone else's.)\n\n
+
+A Useless Fact: This article has 1534 words!\n
+(\iGo on, count them to make sure.\i)\n\n\n
+
+I'd like to thank some GW users for participating in my introduction topic, namely:\n
+- The Shadowy Guy\n
+- dark illusions\n
+- Senior Behemoth\n
+- Gaedus\n
+- Xanqui\n
+- Topher\n
+- Himitsu Kurai\n\n
+
+I guess I have to leave now, my dinner is waiting... (See, I DO have a life. I'm not a computer, like Bart... Opps, I shouldn't have exposed that secret. My bad.)\n\n
+
+Later! Have a Chocolicious time!\n\n
+
+\i-Mateui\i

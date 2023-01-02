@@ -1,0 +1,178 @@
+\t\t\t\t\b\shMaking An Impact\sh\n
+\t\t\t\t\t\t\tPart 3\b\n
+\t\t\t\t\tby Kaos Tenshi\n\n
+
+\iThe third in the Making an Impact series, this time with steps to creating truly deep characters.\i\n\n
+
+\bJust the facts, ma'am\b\n
+The first thing you need to do with a character is get the facts straight. Inconsistencies in characters, even something as small as saying they don't drink and later drinking a beer with the guys for no reason, can seem like a big inconsistency to players. The easiest way to set your characters straight is to create a notepad document with all of the information about the character in it. Just a little while thinking up all of your character's little personality quirks and such can breathe new life into them and make them seem more real than before. It also helps you decide, "Is this something Carol would do? Is this something Alex would say?"\n\n
+The following is a list to copy and paste to notepad.\n\n\n
+
+\c[#774444]\bCharacter's Full Name:\b\n
+Reason or meaning of name: Nickname: Reason:\n\n\n
+
+
+\bPHYSICAL APPEARANCE:\b\n
+Age: How old does s/he appear?\n
+Eye Color:\n
+Hair Color: Hair type:\n
+Weight: Height:\n
+Type of body/build:\n
+Skin tone: Skin type:\n
+Shape of face:\n
+Predominant feature:\n
+Is s/he healthy?\n\n\n
+
+
+\bFAVORITES:\b\n
+Character's favorite color:\n
+Music:\n
+Food:\n
+Literature:\n
+Expressions:\n
+Expletives:\n\n\n
+
+
+\bHABITS:\b\n
+Hobbies:\n
+Does s/he drink? If so, how much?\n
+Does s/he smoke? If so, how much?\n
+Does s/he gamble? If so, how much?\n\n\n
+
+
+\bBACKGROUND:\b\n
+Hometown:\n
+Type of childhood:\n
+First memory:\n
+Childhood event that still affects him/her:\n
+Why?\n
+Education:\n
+Religion:\n
+Finances:\n\n\n
+
+
+\bFAMILY:\b\n
+Mother: Relationship with her:\n
+Father: Relationship with him:\n
+Siblings: How many? Birth order:\n
+Relationship with each:\n
+Children: How many? Birth order:\n
+Children of siblings:\n\n\n
+
+
+\bATTITUDE:\b\n
+Most at ease when:\n
+Ill at ease when:\n
+Priorities:\n
+Philosophy:\n
+How s/he feels about self:\n
+Past failure embarrassed about:\n
+Why?\n\n\n
+
+
+\bPERSONALITY:\b\n
+Character's greatest personality strength:\n
+Character's greatest personality weakness:\n
+Character's soft spot:\n
+Is this soft spot obvious to others?\n
+If not, how does character hide it?\n
+Biggest vulnerability:\p
+
+
+\bTRAITS:\b\n
+Optimist or pessimist: Why?\n
+Introvert or extrovert: Why?\n
+Drives and motivations:\n
+Talents:\n
+Extremely unskilled at:\n
+Good characteristics:\n
+Character flaws:\n
+Mannerisms:\n
+Peculiarities:\n
+Biggest regret:\n
+Minor regrets:\n
+Biggest accomplishment:\n
+Minor accomplishments:\n
+Character's darkest secret:\n
+Does anyone else know?\n
+If yes, how did they find out?\n\n\n
+
+
+\bSELF-PERCEPTION:\b\n
+One word CHARACTER would use to \n\tdescribe him/herself:\n
+One paragraph description of how\n\tCHARACTER would\tdescribe him/herself:\n
+What does CHARACTER consider his/her\n\tbest physical characteristic?\n
+What does CHARACTER consider his/her\n\tworst physical characteristic?\n
+Are these realistic assessments?\p
+
+
+\bHow CHARACTER thinks others perceive him/her:\b\n
+What four things would CHARACTER most like to change about self? (#1 most important, #2 second most important, etc.)\n
+1.\n
+2.\n
+3.\n
+4.\n
+Why?\n
+If change #1 was made, would character be as happy as s/he thinks?\n
+If not, why not?\p
+
+
+\bINTERRELATION WITH OTHERS:\b\n
+How does character relate to others?\n
+How is s/he perceived by...\n
+Strangers?\n
+Friends?\n
+Wife/Husband/Lover?\n
+Hero/Heroine?\n
+How does character view hero/heroine?\n
+First impression: Why?\n
+What happens to change this perception?\n
+What do family/friends like most about character?\n
+What do family/friends like least about character?\p
+
+
+\bGOALS:\b\n
+Immediate goals:\n
+Long range goals:\n
+How does character plan to accomplish these goals?\n
+How will other characters be affected?\n\n\n
+
+
+\bPROBLEMS/CRISIS:\b\n
+How character reacts in a crisis:\n
+How character faces problems:\n
+Kinds of problems character usually runs into:\n
+How character reacts to NEW problems:\n
+How character reacts to change:\n\n\n
+
+
+\bGENERAL:\b\n
+Favorite clothing: Why?\n
+Least favorite clothing: Why?\n
+Jewelry:\n
+Other accessories:\n
+Where does character live?\n
+Where does character want to live?\n
+Spending habits (frugal, spendthrift, etc): Why?\n
+What does s/he do too much of?\n
+Too little of?\n
+Most prized possession: Why?\p
+
+
+\bUNCATAGORIZED:\b\n
+Person character secretly admires: Why?\n
+Person character was most influenced by: Why?\n
+Most important person in character's life before story starts: Why?\n
+How does character spend the week before the story starts?\c\p
+
+Bet it seems like a lot, huh? Don't worry, you don't have to do it all at once... you don't even have to do all of it. You can remove parts, change parts, add parts, or whatever you like. This is all just a basic blueprint for your character design template. Just like a blank template in RPG Maker 2000, you fill in all of the blanks and turn the character into who YOU want them to be. Keeping sheets like this around will help you keep your character's facts straight, and also helps you keep them in character. Speaking of which...\n\n\n
+
+
+\bKeeping It In Character\b\n
+It's unlikely a diehard pacifist will shoot first and ask questions later. It's also pretty unlikely that someone who loves wars and fighting would be a strong advocate for peace. When characters act 'out of character', they loose all of the personality and realism that they once had.\n\n\n
+
+
+\bAll Things Change\b\n
+Just as the storyline changes from beginning to end, the characters change as well. The events and people all around them affect them, and that change is one of the most important aspects of character development. Character development isn't just something you do when you first start to write the RPG, but it's something that happens to the characters as they move from beginning to end of the story. One of the most common things is the 'coming of age' style story of a boy becoming a man, taking responsibility for himself and his actions, and learning what the real world is like. This isn't the only method of character development but it's a very common example. What happens over the course of your RPG, from beginning to end? How does your character react to these events? How are they changed from the person they were at the start to the person they were at the end?\n\n\n
+
+Be sure to review my article and leave comments! This may be the last in the Making an Impact series if it doesn't get good reviews. 
