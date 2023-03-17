@@ -1,14 +1,12 @@
 Main Quest
 
-You're off on a new adventure!
+Lord Quintus of West Haven has asked you to gather 3 more adventurers before starting a quest.
 
-You realized you have no idea what you're doing. So you've set about
-seeking a trainer.
+You found one adventurer. You need to find 2 more before returning to Lord Quintus.
 
-You found someone willing to train you, but unfortunately you don't
-have the money to pay him. You'll need to seek out some job opportunities.
+You now have 2 adventurers willing to join you. You need just one more before returning to Lord Quintus.
 
-You got a job hunting rats. It's not glamorous, but it'll have to do.
+You have gathered the three adventurers Lord Quintus tasked you with finding. Return to the West Haven Town Hall and speak with Lord Quintus to begin your quest.
 
 mobius_quest_break
 
